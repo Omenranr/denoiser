@@ -1,0 +1,8 @@
+dset:
+  train: egs/val/tr
+  valid: egs/val/cv
+  test: egs/val/tt
+  noisy_json: egs/val/ts/noisy.json
+  noisy_dir:
+  matching: sort
+pesq: 1
